@@ -6,3 +6,5 @@ The right (->)option indicates our game to proceed right side
 The left(<-) option indicates our game to proceed left side
 The background added is a parallax background which creates an illusion of the game running as the player is moving in the game.
 Then The level of the game would be completed
+To run the game, You need to install the pygame.
+pip install pygame
